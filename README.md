@@ -1,5 +1,3 @@
-## 🇺🇸 About Me
-
 ### Greetings, I’m Carlos 🧠
 
 I’m a **Physics student** — because understanding the laws of the universe is just the beginning.  
