@@ -7,9 +7,3 @@ I’m the **Co-founder & CTO at Axisor Technologies Brazil**, where I lead cutti
 
 If this repository seems a bit quiet, don't worry. Just like quantum particles, the real action happens where you can't see it — in private repos and late-night breakthroughs.
 
-> “I’m not crazy. My mother had me tested.” – *Dr. Sheldon Cooper*
-
-Physics is my foundation, tech is my playground… and genius?  
-I’ll let you be the judge. 😉
-
-**Bazinga!** 🧪
