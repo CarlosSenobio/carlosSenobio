@@ -1,6 +1,6 @@
 ### 👋 Greetings, I'm Carlos
 
-**AI researcher** specializing in **NLP and Transformer architectures**, where theoretical insights meet practical implementations — powered by a dangerously consistent caffeine intake ☕.
+**AI researcher** specializing in **NLP and Transformer architectures**, where theoretical insights meet practical implementations, powered by a dangerously consistent caffeine intake ☕.
 
 🚀 **Co-founder & Chief AI Scientist at Axisor Technologies Brazil**, where I explore novel architectures and shape the future of intelligent systems — no AGI needed (yet).
 
