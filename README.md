@@ -1,7 +1,16 @@
-### 👋 Greetings, I'm Carlos
+# 👋 Hello, I'm Carlos
 
-**AI researcher** specializing in **NLP and Transformer architectures**, where theoretical insights meet practical implementations, powered by a dangerously consistent caffeine intake ☕.
+**CTO & Co-founder at Axisor Technologies** | **AI Researcher & Software Engineer**
 
-🚀 **Co-founder & Chief AI Scientist at Axisor Technologies Brazil**, where I explore novel architectures and shape the future of intelligent systems — no AGI needed (yet).
+With a decade of experience in software engineering, my background as a **Full Stack and Mobile Developer** has provided me with a comprehensive understanding of how to build and scale robust systems.
 
-> _If things look calm around here, don't worry. Like hidden layers in a deep network, the real work happens beyond the input layer (or output layer too, in this case...) — in private repos, research drafts, and late-night breakthroughs._
+Currently, at **Axisor**, I merge this extensive engineering foundation with over 3 years of dedicated research in **AI, LLMs, Transformer architectures, and Neural Networks**. My work focuses on bridging the gap between cutting-edge theory and practical engineering, delivering intelligent solutions that are not only innovative but also market-ready and high-performing.
+
+> **My Approach:** > Leveraging 10 years of engineering expertise to streamline complex AI implementations, ensuring technology serves the end product with efficiency and scale.
+
+---
+
+### 🛠️ Core Expertise
+* **AI Research:** LLMs, Transformer Models, NLP, and Neural Network Optimization.
+* **Engineering:** 10 years of Full Stack & Mobile Development.
+* **Leadership:** Technical Strategy, Architecture Design, and Product Vision.
